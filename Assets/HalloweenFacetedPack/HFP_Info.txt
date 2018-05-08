@@ -1,0 +1,9 @@
+This package is using 2 Image Effects from Unity Standart Assets.
+
+- Global fog effect to rich great fog effect from downside
+- Bloom effect to make scene more contrast
+
+If you dont have them already, you can import them for free!
+In the left upper corner in unity press Assets/Import Package/Effects
+
+Thank you and have fun!
